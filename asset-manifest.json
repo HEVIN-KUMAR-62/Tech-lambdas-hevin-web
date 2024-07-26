@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.i)io/Tech-lambdas-hevin-web/static/css/main.35e3abd1.css",
+    "main.js": "/.github.i)io/Tech-lambdas-hevin-web/static/js/main.4776be1e.js",
+    "static/js/453.ed3810f9.chunk.js": "/.github.i)io/Tech-lambdas-hevin-web/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/.github.i)io/Tech-lambdas-hevin-web/index.html",
+    "main.35e3abd1.css.map": "/.github.i)io/Tech-lambdas-hevin-web/static/css/main.35e3abd1.css.map",
+    "main.4776be1e.js.map": "/.github.i)io/Tech-lambdas-hevin-web/static/js/main.4776be1e.js.map",
+    "453.ed3810f9.chunk.js.map": "/.github.i)io/Tech-lambdas-hevin-web/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e3abd1.css",
+    "static/js/main.4776be1e.js"
+  ]
+}
