@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Container-table {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Box {
+    background-color: rgb(29, 29, 65);
+    width: 300px;
+    text-align: center;
+}
+
+.Box span {
+    color:rgb(31, 203, 79);
+}
+
+.Box h1 {
+    color: white;
+}
+.Table-form {
+    width: 50%;
+    height: auto;
+}
+.Table-form P{
+  font-weight: bold;
+}
+.Table-form button {
+    top: -35px;
+    display: block;
+    background-color: rgb(31, 203, 79);
+}
+
+@media (min-width: 768px) {
+    .Container-table {
+        flex-direction: row;
+    }
+
+    .Box {
+        height: 100vh;
+    }
+
+    .Table-form {
+        height: 100vh;
+    }
+
+    .Table-form button {
+        margin-left: 600px;
+    }
+}
+
+@media (max-width: 767px) {
+    .Box {
+        width: 80%;
+        height: auto;
+    }
+
+    .Table-form {
+        width: 90%;
+        height: auto;
+    }
+
+    .Table-form button {
+        margin: 20px auto;
+        display: block;
+    }
+}
